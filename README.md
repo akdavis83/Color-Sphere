@@ -1,4 +1,3 @@
-# Orbit Trails
+## Orbital Sphere
 
-### Watch the video here:
-https://youtu.be/zuBVpg6TX38
+### Forked in Three.JS
